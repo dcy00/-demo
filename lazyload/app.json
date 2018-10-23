@@ -1,0 +1,10 @@
+{
+  "pages":[
+    "pages/productList/productList"
+  ],
+  "window":{
+    "backgroundTextStyle":"black",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"light"
+  }
+}
